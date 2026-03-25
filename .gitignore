@@ -1,0 +1,14 @@
+# build output
+bin/
+
+# object files
+*.o
+*.a
+
+# editor / IDE
+.cursor/
+*.swp
+*~
+
+# macOS
+.DS_Store
